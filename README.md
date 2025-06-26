@@ -1,6 +1,6 @@
 # Bulk Email Extractor
 
-[Bulk Email Extractor]()
+[Bulk Email Extractor](https://raw.githubusercontent.com/alexrony21/Bulk-Email-Extractor/refs/heads/main/Bulk_Email_Extractor.png)
 
 ## Features
 
